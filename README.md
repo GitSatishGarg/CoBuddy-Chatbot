@@ -1,6 +1,6 @@
 # Covid-19 Chatbot
 The chatbot runs in the browser, Steps to run Chatbot (after installing dependencies) :-
- - run "virtualenv env" in cmd in the downloaded and extracted folder of repo
+ - run "virtualenv env" in cmd in the downloaded and extracted folder of repo (NOTE:- DO THIS STEP BEFORE DOWNLOADING)
  - run "app.py" 
  - open localhost link given in the cmd
  - ask questions about covid-19 (the chatbot can also small talk)
