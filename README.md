@@ -12,3 +12,7 @@ Requirements for Chatbot
 - chatterbot
 - chatterbot-corpus
 - flask
+
+Screenshots:- 
+![Screenshot (82)](https://user-images.githubusercontent.com/71393132/151709147-c8f880ce-de6e-40be-bdf4-b1f679856609.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/71393132/151709150-89b80fd2-3b40-40d2-9062-cb0b928a986e.png)
